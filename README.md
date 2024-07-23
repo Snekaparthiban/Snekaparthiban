@@ -1,4 +1,4 @@
-Hi,I'm Sneka and I'm a third year student in B.Tech Information Technology, with a strong interest in computer vision and machine learning. 
+Hi,I'm Sneka and I'm a final year student in B.Tech Information Technology, with a strong interest in computer vision and machine learning. 
 I'm constantly learning and experimenting with new technologies.
 Simple Image Display with OpenCV
 
